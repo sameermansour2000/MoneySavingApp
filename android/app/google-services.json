@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137120661327",
+    "project_id": "moneysaving-bff46",
+    "storage_bucket": "moneysaving-bff46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137120661327:android:8b7b6af20e2f6146178f3a",
+        "android_client_info": {
+          "package_name": "com.s8.ms.ms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnmXJYHnk0MP-KnVVeCL5QwN6yu9IJOlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
